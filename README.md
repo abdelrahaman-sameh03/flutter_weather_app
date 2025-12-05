@@ -88,7 +88,7 @@ flutter pub get
 flutter run
 ```
 
-### Build APK (required for submission):
+### Build APK:
 ```bash
 flutter build apk --release
 ```
@@ -104,7 +104,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 - Flutter 3.x  
 - Dart  
-- Provider (State Management)  
+- setState (State Management)  
 - SharedPreferences  
 - HTTP REST API  
 - OpenWeatherMap API  
